@@ -3,8 +3,8 @@
 ## Acción
 
 ### URL
-LinkBehaviour_54F24986_7506_4BE0_41D3_C62921F38AF7.source = https://espaciointerlomas.com.mx/
 LinkBehaviour_55FC1B4E_7505_CF60_41C9_AD2A3BD0289D.source = https://espaciointerlomas.com.mx/
+LinkBehaviour_54F24986_7506_4BE0_41D3_C62921F38AF7.source = https://espaciointerlomas.com.mx/
 WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d470.425394391242!2d-99.28944715565606!3d19.39497934476066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d206cf5a6d8c25%3A0xf25b0efc73d6b0ad!2sEspacio%20Interlomas!5e0!3m2!1ses-419!2smx!4v1793111280979!5m2!1ses-419!2smx
 WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d470.425394391242!2d-99.28944715565606!3d19.39497934476066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d206cf5a6d8c25%3A0xf25b0efc73d6b0ad!2sEspacio%20Interlomas!5e0!3m2!1ses-419!2smx!4v1793111280979!5m2!1ses-419!2smx
 WebFrame_1A44485A_7EDC_A1DF_41D1_73B161FF079A_mobile.url = //www.youtube.com/embed/7vtOJZRF740
@@ -15,21 +15,21 @@ WebFrame_1F45CC9D_7EAC_A15A_41B0_AE52C0C9F776_mobile.url = //www.youtube.com/emb
 WebFrame_1F45CC9D_7EAC_A15A_41B0_AE52C0C9F776.url = //www.youtube.com/embed/UVQeE5HwOKQ
 WebFrame_19DF7F59_7EE4_BFDD_41DD_B4F95431D81A_mobile.url = //www.youtube.com/embed/lj0WuCBLSJ0
 WebFrame_19DF7F59_7EE4_BFDD_41DD_B4F95431D81A.url = //www.youtube.com/embed/lj0WuCBLSJ0
-LinkBehaviour_127AF366_526E_03CC_41C1_7C29FD5735E2.source = inmersia360.com
-LinkBehaviour_6CA79B0F_526E_035C_41CE_ECD1B0339D3B.source = inmersia360.com
 LinkBehaviour_113DC555_526E_07CC_41C9_F7D2EC33DFC0.source = inmersia360.com
 LinkBehaviour_113DF556_526E_07CC_41B8_96F0690DEA9D.source = inmersia360.com
+LinkBehaviour_127AF366_526E_03CC_41C1_7C29FD5735E2.source = inmersia360.com
+LinkBehaviour_6CA79B0F_526E_035C_41CE_ECD1B0339D3B.source = inmersia360.com
 
 ## Media
 
 ### Floorplan
 
 ### Imágen
-imlevel_9317993E_8301_DF70_41AE_BF0D96B6B4D8.url = media/map_63B26A68_7AA4_A1FB_41D6_CE7F00D7B4CE_es_0.webp
-imlevel_9317E93E_8301_DF70_41CB_665166BB97E7.url = media/map_63B26A68_7AA4_A1FB_41D6_CE7F00D7B4CE_es_1.webp
-imlevel_9317C93F_8301_DF70_41C2_B0CC09329313.url = media/map_63B26A68_7AA4_A1FB_41D6_CE7F00D7B4CE_es_2.webp
-imlevel_9317D93F_8301_DF70_41C5_9672CBD8F8CB.url = media/map_63B26A68_7AA4_A1FB_41D6_CE7F00D7B4CE_es_3.webp
-imlevel_9317293F_8301_DF70_41C5_64C511B5490D.url = media/map_63B26A68_7AA4_A1FB_41D6_CE7F00D7B4CE_es_4.webp
+imlevel_90F5627D_8301_4DF1_41CB_51406323D3EA.url = media/map_63B26A68_7AA4_A1FB_41D6_CE7F00D7B4CE_es_0.webp
+imlevel_90F5327D_8301_4DF1_41DF_5BBCCB1FE8D0.url = media/map_63B26A68_7AA4_A1FB_41D6_CE7F00D7B4CE_es_1.webp
+imlevel_90F5227D_8301_4DF1_41C1_9F80E4E96C5A.url = media/map_63B26A68_7AA4_A1FB_41D6_CE7F00D7B4CE_es_2.webp
+imlevel_90F5D27E_8301_4DF3_41B8_BCDF13DDE540.url = media/map_63B26A68_7AA4_A1FB_41D6_CE7F00D7B4CE_es_3.webp
+imlevel_90F5F27E_8301_4DF3_41BC_7E31AB050374.url = media/map_63B26A68_7AA4_A1FB_41D6_CE7F00D7B4CE_es_4.webp
 
 ### Título
 map_63B26A68_7AA4_A1FB_41D6_CE7F00D7B4CE.label = 222-2
@@ -169,8 +169,8 @@ Image_70B20318_5236_0344_41D2_27098EEBF6A2.url = skin/Image_70B20318_5236_0344_4
 Image_70B20318_5236_0344_41D2_27098EEBF6A2_mobile.url = skin/Image_70B20318_5236_0344_41D2_27098EEBF6A2_mobile_es.png
 
 ### Texto Multilínea
-HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.759999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.669999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.67vmin;font-family:'Bebas Neue Bold';">Ubicación</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.86vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:3.39vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.2050716648291067vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000ff;font-size:2.21vmin;">Av. Jesús del Monte Manzana 018, Jesus del Monte, 52764 Jesús del Monte, Méx</SPAN></SPAN></DIV></div>
-HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.140000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.140000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.14vh;font-family:'Bebas Neue Bold';">áreas:</SPAN></SPAN></DIV></div>
+HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.759999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.67vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.67vmin;font-family:'Bebas Neue Bold';">Ubicación</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.86vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:3.39vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.2050716648291067vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000ff;font-size:2.21vmin;">Av. Jesús del Monte Manzana 018, Jesus del Monte, 52764 Jesús del Monte, Méx</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.1400000000000015vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.1400000000000015vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.14vh;font-family:'Bebas Neue Bold';">áreas:</SPAN></SPAN></DIV></div>
 HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.98vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7.98vmin;font-family:'Bebas Neue Bold';">áreas:</SPAN></SPAN></DIV></div>
 HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16.95291666666665vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16.95vmin;font-family:'Bebas Neue Bold';">Ubicación</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:16.95vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.96vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.722222222222221vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000ff;font-size:4.72vmin;">Av. Jesús del Monte Manzana 018, Jesus del Monte, 52764 Jesús del Monte, Méx</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.72vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.96vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 
